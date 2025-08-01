@@ -36,13 +36,6 @@ The Free SEO Action Plan bridges that gap by:
 
 ---
 
-## 📚 Sample Output
-
-Download a sample action plan PDF:  
-➡️ [`SEO Action Plan for Local Painters`](https://your-sample-link.com) ← *(replace with actual link)*
-
----
-
 ## 🔍 Features
 
 - ✅ Works for Local Businesses, eCommerce, and Digital Services  
